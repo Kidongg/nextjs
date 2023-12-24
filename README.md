@@ -21,4 +21,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 13. Handling Errors
 14. Improving Accessibility
 15. Adding Authentication
-    16 Adding Metadata
+16. Adding Metadata
